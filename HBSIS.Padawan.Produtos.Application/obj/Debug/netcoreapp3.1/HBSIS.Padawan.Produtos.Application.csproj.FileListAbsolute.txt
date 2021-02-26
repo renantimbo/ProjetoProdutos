@@ -1,0 +1,12 @@
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.deps.json
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.dll
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.pdb
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.csprojAssemblyReference.cache
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.AssemblyInfoInputs.cache
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.AssemblyInfo.cs
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.csproj.CopyComplete
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.dll
+C:\Users\Renan.timbo\Source\Repos\padawan-produtos-api\HBSIS.Padawan.Produtos.Application\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Application.pdb
